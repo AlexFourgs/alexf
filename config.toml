@@ -1,0 +1,4 @@
+baseURL = "https://alexf.fr/"
+languageCode = "en-us"
+title = "Welcome to Alex Fourgs site"
+theme = "hello-friend-ng"
