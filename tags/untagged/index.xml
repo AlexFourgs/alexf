@@ -1,1 +1,23 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>untagged on Hello Friend NG</title><link>https://alexf.fr/tags/untagged/</link><description>Recent content in untagged on Hello Friend NG</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>&lt;a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0&lt;/a></copyright><lastBuildDate>Thu, 18 Nov 2021 22:38:30 +0100</lastBuildDate><atom:link href="https://alexf.fr/tags/untagged/index.xml" rel="self" type="application/rss+xml"/><item><title>Test</title><link>https://alexf.fr/posts/test/</link><pubDate>Thu, 18 Nov 2021 22:38:30 +0100</pubDate><guid>https://alexf.fr/posts/test/</guid><description>I&amp;rsquo;m a first post test.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>untagged on Welcome to Alex Fourgs site</title>
+    <link>https://alexf.fr/tags/untagged/</link>
+    <description>Recent content in untagged on Welcome to Alex Fourgs site</description>
+    <image>
+      <url>https://alexf.fr/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://alexf.fr/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 18 Nov 2021 22:38:30 +0100</lastBuildDate><atom:link href="https://alexf.fr/tags/untagged/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test</title>
+      <link>https://alexf.fr/posts/test/</link>
+      <pubDate>Thu, 18 Nov 2021 22:38:30 +0100</pubDate>
+      
+      <guid>https://alexf.fr/posts/test/</guid>
+      <description>I&amp;rsquo;m a first post test.</description>
+    </item>
+    
+  </channel>
+</rss>
